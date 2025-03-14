@@ -1,0 +1,12 @@
+{
+  "dataStudio": {
+    "name": "Diode Clignotante",
+    "logoUrl": "https://example.com/logo.png",
+    "company": "Ma Société",
+    "supportedVisualizations": ["custom"],
+    "version": "1.0",
+    "resources": {
+      "js": ["viz.js"]
+    }
+  }
+}
